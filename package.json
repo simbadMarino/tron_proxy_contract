@@ -1,0 +1,11 @@
+{
+    "name": "proxy-contract",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "@openzeppelin/contracts-upgradeable": "^4.8.2"
+    },
+    "devDependencies": {
+        "@openzeppelin/truffle-upgrades": "^1.21.0"
+    }
+}
